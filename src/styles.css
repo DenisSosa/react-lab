@@ -1,0 +1,6 @@
+body { margin: 0; padding: 0; background: #f7f7f7; }
+h1 { color: #333; }
+table { border-collapse: collapse; width: 100%; background: white; }
+th, td { text-align: left; padding: 8px; border-bottom: 1px solid #ddd; }
+th { background: #f2f2f2; }
+.center { text-align: center; padding: 20px; }
